@@ -1,5 +1,5 @@
 This package is a fork of the [original @barryvdh library](https://github.com/barryvdh/laravel-dompdf), altered for
-compatibility with other PHP versions. It is intended for use with PHP 7.4 or 8.0, and should be compatible with
+compatibility with other PHP versions. It is intended for use with PHP 7.4 or later, and should be compatible with
 Laravel 8.
 
 ## DOMPDF Wrapper for Laravel
